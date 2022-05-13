@@ -1,0 +1,176 @@
+body {
+    margin: 0%;
+    font-size: 14px;
+    background: rgba(241, 221, 191, 1);
+}
+
+.navbar {
+    margin: 0%;
+    background: url("../img/background.png");
+    padding: 20px;
+}
+
+.nav-left {
+    margin-left: 20px;
+    float: left;
+    color: rgb(255, 255, 255);
+    margin-top: 1%;
+    margin-bottom: 1%;
+    margin-left: 12%;
+    margin-right: 12%;
+}
+
+.nav-right {
+    margin-right: 10px;
+    float: right;
+    color: rgb(255, 255, 255);
+}
+
+.loan-title {
+    margin: 10px;
+    padding: 20px;
+    color: rgb(61, 61, 61);
+    text-align: center;
+}
+
+.feature {
+    margin-top: 1%;
+    margin-bottom: 1%;
+    margin-left: 12%;
+    margin-right: 12%;
+    overflow: auto;
+}
+
+.left {
+    float: left;
+}
+
+.right {
+    float: right;
+}
+
+.feature-child {
+    overflow: auto;
+    padding: 10px;
+}
+
+.feature-loan {
+    background-color: #92BA92;
+    color: rgb(86, 85, 85);
+    font-size: 20px;
+    width: 45%;
+    border-radius: 5px;
+}
+
+.feature-loan img {
+    width: 45%;
+    padding: 5px;
+}
+
+.feature-loan p {
+    font-size: 20px;
+    text-align: center;
+    margin-top: 20%;
+    margin-bottom: 20%;
+    width: 50%;
+    padding: 3px;
+    float: right;
+}
+
+.feature-loan i {
+    padding: 10px;
+}
+
+.ftr-loan {
+    margin-left: 15%;
+    margin-right: 15%;
+    padding-bottom: 40px;
+}
+
+.ftr-loan-criteria {
+    margin: 5% 15%;
+    padding: 20px 2px;
+    background-color: #C4C4C4;
+    display: block;
+    width: 70%;
+    text-align: center;
+    font-size: 20px;
+    border-radius: 1%;
+}
+
+.ftr-input {
+    margin: 0% 15%;
+    overflow: auto;
+}
+
+.ftr-input i {
+    padding: 10px;
+}
+
+.ftr-input input {
+    /* padding:20px 230px; */
+    border-radius: 1%;
+    margin: 0px;
+    width: 80%;
+    font-size: 24px;
+}
+
+.ftr-input button {
+    padding: 30px 80px;
+    font-size: 20px;
+}
+
+.ftr-choose {
+    margin: 0% 15%;
+    padding: 60px 2px;
+}
+
+.ftr-loan-bayar {
+    margin: 5% 15%;
+    padding: 150px 2px;
+}
+
+.choose-bg {
+    padding: 10px 20px;
+    background-color: #92BA92;
+    margin: 10px;
+    font-size: 30px;
+    color: #4f4f4f;
+}
+
+.nominal-fill {
+    padding: 20px 40px;
+    background-color: #92BA92;
+}
+
+.nominal-out {
+    padding: 10px 40px;
+    background-color: #92BA92;
+}
+
+.input-form {
+    float: left;
+    width: 66%;
+    background-color: #92BA92;
+    padding: 10px;
+}
+
+.bill {
+    background-color: #92BA92;
+    border-radius: 5%;
+    color: #fff;
+}
+
+.button-form {
+    float: right;
+}
+
+.button-return button {
+    margin: 0% 15%;
+    padding: 20px 2px;
+    width: 20%;
+    background-color: #92BA92;
+    border-radius: 5%;
+    font-size: 30px;
+    color: #fff;
+}
